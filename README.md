@@ -1,4 +1,5 @@
-### Hello! Eu sou o Jezyel Passos 👋
+## Olá, eu sou o Jezyel Passos, sejam bem-vindos ao meu perfil do github!!👋✌
+### Developer Front-End/Client Size | HTML | CSS | JavaScript 👨‍💻💻📚
 
 <div>
   <a href="https://www.instagram.com/jezyelpassos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
