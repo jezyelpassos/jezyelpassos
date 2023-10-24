@@ -6,7 +6,7 @@
   
 </div>
 <p>
- Um amante da tecnologia, alguns me chamam de Steve Jobs da era moderna. Pra você que não me conhece, meu nome é Jezyel Passos, sou apaixonado por tecnologia e sempre fui curioso em relação a como um computador, site ou até mesmo um robô funciona. Me interessei pela área da programação aos 17 anos. Sai do interior da Bahia com o intuito de buscar novos rumos, hoje morando em Goiânia, novamente me deparo com a nostalgia e o desejo de ser um desenvolvedor front-end, estou aproveitando cada momento e cada linha, como um aprendizado.
+ Um amante da tecnologia, alguns me chamam de Steve Jobs da era moderna. Pra você que não me conhece, meu nome é Jezyel Passos, sou apaixonado por tecnologia e sempre fui curioso em relação a como um computador, site ou até mesmo um robô funciona. Me interessei pela área da programação aos 17 anos. Novamente me deparo com a nostalgia e o desejo de ser um desenvolvedor front-end, estou aproveitando cada momento e cada linha, como um aprendizado.
  </p>
 
 <div align="center">
